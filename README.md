@@ -2,7 +2,7 @@
 Updater bot that checks for new releases. For AWS Lambda Function
 Used by a telegram bot that updates the telegram channel on the new releases.
 
-## Sites that the bot currently tracks for new releases
+### Sites that the bot currently tracks for new releases
 - Burpsuite
 - Gitlab
 - AWS CLI
@@ -13,7 +13,7 @@ Used by a telegram bot that updates the telegram channel on the new releases.
 - Sonarqube
 - Dependency Check
 
-Content
+### Content
 ```
  ├── Notes.md // FYI notes about the bot
  ├── cached.txt // Stores cached data of the latest releases. Bot will read/write to this file
