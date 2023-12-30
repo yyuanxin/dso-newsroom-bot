@@ -45,17 +45,6 @@ Cached.txt
 GITLAB,https://about.gitlab.com/releases/2023/03/02/security-release-gitlab-15-9-2-released/
 ```
 
-Code
-
-- **[Main Implementation]** lambda_function.py
-    
-    [lambda_function.py](RSS%20Feed%208d265b77215d4468bb87cf1db19b4d6d/lambda_function.py)
-    
-- **[Function Declaration]** classes.py
-    
-    [classes.py](RSS%20Feed%208d265b77215d4468bb87cf1db19b4d6d/classes.py)
-    
-
 Shell (Run this script to package zip file for lambda file upload)
 
 ```python
