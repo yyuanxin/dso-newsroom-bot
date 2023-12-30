@@ -1,5 +1,6 @@
 # dso-newsroom-bot
-Updater bot that checks for new releases. For AWS Lambda Function
+Bot that checks for new releases. For AWS Lambda Function
+
 Used by a telegram bot that updates the telegram channel on the new releases.
 
 ### Sites that the bot currently tracks for new releases
