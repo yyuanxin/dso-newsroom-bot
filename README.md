@@ -42,12 +42,12 @@ Use Case: For sites with no timestamps. Eg: `2023-02-14T00:00:00+00:00`
 1. Create a python3.9 lambda function
 2. Run `script.sh` locally and upload output file `python-package.zip`
 3. Create 3 environment variables
-   - Key: BOT_TOKEN
-     Value: <telegram-bot-token>
-   - Key: CHANNEL_ID
-     Value: <telegram-channel-id>
-   - Key: HOURS
-     Value: <how-often-bot-checks-for-new-releases>
+   - Key: BOT_TOKEN </br>
+     Value: `<telegram-bot-token>`
+   - Key: CHANNEL_ID </br>
+     Value: `<telegram-channel-id>`
+   - Key: HOURS </br>
+     Value: `<how-often-bot-checks-for-new-releases>`
 
 ## Set Daily cron job with EventBridge
 
