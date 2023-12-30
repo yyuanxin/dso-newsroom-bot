@@ -24,6 +24,11 @@ Used by a telegram bot that updates the telegram channel on the new releases.
  └── requirements.txt // list of python packages required
 ```
 
+## To start...
+Clone the gitlab repo and ensure the following req are met:
+- Create a telegram bot -> obtain the bot token
+- Create a telegram channel -> set bot as channel admin -> obtain channel id
+
 ## Create s3 bucket to store cached data
 Used to store cached data of the latest releases. (Currently used for gitlab only)
 Use Case: For sites with no timestamps. Eg: `2023-02-14T00:00:00+00:00`
