@@ -1,0 +1,1 @@
+GITLAB,https://about.gitlab.com/releases/2023/12/21/gitlab-16-7-released/
